@@ -10,4 +10,6 @@ Also I plan to add keyboard support for mobile and modify the UI.
 
 Yeah it's much worse than the original so use [Copy/v86's version](https://copy.sh/v86/)
 
+And of course, all uses belong to [Copy](https://github.com/copy/)
+
 [For any other information please redirect to the original project.](https://github.com/copy/v86)
